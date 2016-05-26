@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="glutapp" />
+		<Option pch_mode="2" />
+		<Option compiler="msvc10" />
+		<Build>
+			<Target title="Debug Win32">
+				<Option output="glutapp" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="msvc10" />
+				<Compiler>
+					<Add option="/DWIN32" />
+					<Add option="/D_DEBUG" />
+					<Add option="/D_CONSOLE" />
+					<Add directory="../" />
+					<Add directory="../freeglut" />
+				</Compiler>
+				<Linker>
+					<Add option="/debug" />
+					<Add library="../freeglut/freeglut.lib" />
+				</Linker>
+			</Target>
+			<Target title="Release Win32">
+				<Option output="glutapp" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="msvc10" />
+				<Compiler>
+					<Add option="/DWIN32" />
+					<Add option="/DNDEBUG" />
+					<Add option="/D_CONSOLE" />
+					<Add directory="../" />
+					<Add directory="../freeglut" />
+				</Compiler>
+				<Linker>
+					<Add library="../freeglut/freeglut.lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="../app_main.cpp" />
+		<Unit filename="../app_window.cpp" />
+		<Unit filename="../app_window.h" />
+		<Unit filename="../glut_window.cpp" />
+		<Unit filename="../glut_window.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

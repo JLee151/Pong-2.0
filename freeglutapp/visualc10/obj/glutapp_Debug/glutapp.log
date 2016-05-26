@@ -1,0 +1,58 @@
+﻿  app_window.cpp
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(16): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(16): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(17): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(23): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(23): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(24): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(31): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(31): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(31): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(31): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(32): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(32): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(32): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(32): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(33): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(33): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(33): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(36): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(36): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(36): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(36): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(38): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(38): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(38): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(38): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(115): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(124): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(155): warning C4305: '-=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(156): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(163): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(164): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(176): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(177): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(178): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(208): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(217): warning C4305: '-=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(218): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(219): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(248): warning C4305: '-=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(259): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(262): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(263): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(282): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(284): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(285): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(294): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(296): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(303): warning C4305: '-=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(305): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(312): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(314): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(321): warning C4305: '-=' : truncation from 'double' to 'float'
+c:\users\ben\desktop\oop\fp\eh\freeglutapp\app_window.cpp(323): warning C4305: '=' : truncation from 'double' to 'float'
+  LINK : obj\glutapp_Debug\glutapp.exe not found or not built by the last incremental link; performing full link
+  glutapp.vcxproj -> C:\Users\Ben\Desktop\oop\FP\eh\freeglutapp\visualc10\obj\glutapp_Debug\glutapp.exe
