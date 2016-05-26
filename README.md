@@ -1,5 +1,6 @@
 # Pong-2.0
-The classic game of Pong remade to please any masochist
+- The classic game of Pong remade to please any masochist
+- Project for CSE 165 - Object Oriented Programming (Spring 2015)
 
 Linux:
  - Type make to compile the application
