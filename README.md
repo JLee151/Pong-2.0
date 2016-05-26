@@ -30,3 +30,7 @@ Notes:
    from the App Store. Open it and let it set itself up. Then
    in the terminal type: xcode-select -install
    This will install the command line compiler tools on your Mac
+
+ - Mainly done on Windows and somewhat tested on Linux/Mac so if done
+   in Visual Studios and prompted with a debugging error of sorts when
+   compiling, just click the box saying "yes/okay"
